@@ -57,7 +57,7 @@ L'objectif consistait à optimiser un site vitrine existant afin d'améliorer se
 
 ## Aperçu
 
-![Nina Carducci](./assets/iamges/nina-ss.png)
+![Nina Carducci](assets/images/nina-ss.png)
 
 Site vitrine optimisé pour le référencement naturel, les performances et l'accessibilité, avec amélioration des scores Lighthouse, optimisation des médias et intégration de données structurées.
 
